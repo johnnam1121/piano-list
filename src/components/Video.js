@@ -1,6 +1,6 @@
-import React from 'react'
 import { Container, Row, Col } from 'react-bootstrap';
 import ReactPlayer from 'react-player'
+import React from 'react'
 
 function Video(props) {
   return (
@@ -15,9 +15,9 @@ function Video(props) {
             width="100%"
           />
         </Col>
-        <Col className='shadow p-3 mb-5 rounded' sm={{ offset: 1, span: 4 }}>
+        <Col className='shadow p-3 mb-5 rounded' sm={{ offset: 1, span: 3 }}>
           <h1>{props.title}</h1>
-          <p>Sheets here<a href={props.google + props.title + " piano sheet music"} target="_blank" rel="noreferrer" >{props.title}</a></p>
+          <p>Sheets here <a href={props.google + props.title + " piano sheet music"} target="_blank" rel="noreferrer" >{props.title}</a></p>
         </Col>
       </Row>
     </Container>

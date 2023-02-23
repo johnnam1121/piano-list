@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import { Container, Row, Col } from 'react-bootstrap';
+import { Container, Row, Col, Tab, Tabs } from 'react-bootstrap';
 import Video from './Video';
 
 const API = 'AIzaSyBjz1KrnlXtaREQKbCmTwv-smz5_KpxTTg';
