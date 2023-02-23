@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.641f96da.css",
-    "main.js": "/react-gh-pages/static/js/main.35ac7c6c.js",
-    "static/js/787.7073a4fb.chunk.js": "/react-gh-pages/static/js/787.7073a4fb.chunk.js",
-    "index.html": "/react-gh-pages/index.html",
-    "main.641f96da.css.map": "/react-gh-pages/static/css/main.641f96da.css.map",
-    "main.35ac7c6c.js.map": "/react-gh-pages/static/js/main.35ac7c6c.js.map",
-    "787.7073a4fb.chunk.js.map": "/react-gh-pages/static/js/787.7073a4fb.chunk.js.map"
+    "main.css": "/piano-list/static/css/main.641f96da.css",
+    "main.js": "/piano-list/static/js/main.a3a9f226.js",
+    "static/js/787.7073a4fb.chunk.js": "/piano-list/static/js/787.7073a4fb.chunk.js",
+    "index.html": "/piano-list/index.html",
+    "main.641f96da.css.map": "/piano-list/static/css/main.641f96da.css.map",
+    "main.a3a9f226.js.map": "/piano-list/static/js/main.a3a9f226.js.map",
+    "787.7073a4fb.chunk.js.map": "/piano-list/static/js/787.7073a4fb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.641f96da.css",
-    "static/js/main.35ac7c6c.js"
+    "static/js/main.a3a9f226.js"
   ]
 }
